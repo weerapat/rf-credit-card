@@ -1,0 +1,89 @@
+@font-face {
+  font-family: 'rabbit-comparison-font';
+  src:  url('fonts/rabbit-comparison-font.eot?3c5bmv');
+  src:  url('fonts/rabbit-comparison-font.eot?3c5bmv#iefix') format('embedded-opentype'),
+    url('fonts/rabbit-comparison-font.ttf?3c5bmv') format('truetype'),
+    url('fonts/rabbit-comparison-font.woff?3c5bmv') format('woff'),
+    url('fonts/rabbit-comparison-font.svg?3c5bmv#rabbit-comparison-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="rcompare-"], [class*=" rcompare-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'rabbit-comparison-font' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.rcompare-plane:before {
+  content: "\e900";
+}
+.rcompare-caret:before {
+  content: "\e901";
+}
+.rcompare-arrow-left:before {
+  content: "\e902";
+}
+.rcompare-backtotop:before {
+  content: "\e903";
+}
+.rcompare-plus-minus-sign:before {
+  content: "\e904";
+}
+.rcompare-check-mark:before {
+  content: "\e905";
+}
+.rcompare-executive:before {
+  content: "\e906";
+}
+.rcompare-round-star:before {
+  content: "\e907";
+}
+.rcompare-plane-oblique:before {
+  content: "\e908";
+}
+.rcompare-filter:before {
+  content: "\e909";
+}
+.rcompare-firstjobber:before {
+  content: "\e90a";
+}
+.rcompare-spoon-fork:before {
+  content: "\e90b";
+}
+.rcompare-hamburger-menu:before {
+  content: "\e90c";
+}
+.rcompare-shopping-bag:before {
+  content: "\e90d";
+}
+.rcompare-clock-minimal:before {
+  content: "\e90e";
+}
+.rcompare-percent-sign:before {
+  content: "\e90f";
+}
+.rcompare-bookmark:before {
+  content: "\e910";
+}
+.rcompare-recommend-hand:before {
+  content: "\e911";
+}
+.rcompare-slide-arrow:before {
+  content: "\e912";
+}
+.rcompare-x-cross:before {
+  content: "\e913";
+}
+.rcompare-clock-round:before {
+  content: "\e914";
+}
